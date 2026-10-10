@@ -40,6 +40,6 @@ To resolve these issues, a multi-step data transformation and standardization wo
 
 ## Repository Structure
 ```text
-├── MiniProject3.sql     # Main cleaning script with custom validations
-├── screenshots2                   # Result grids showing cleaned outputs
-└── README.md                      # Project documentation
+├── MiniProject3.sql     
+├── screenshots2                   
+└── README.md                    
