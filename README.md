@@ -1,11 +1,9 @@
 # Mini Project 03: Data Cleaning, Validation & Standardization in SQL
 
---
 
 ## Project Overview
 This project executes a robust end-to-end data cleaning and preprocessing pipeline on the classicmodels relational database. The goal is to address data hygiene issues—including missing values, inconsistent string formatting, duplicate records, structural text extraction, and database standardization.
 
---
 
 ## 1. What Issues You Identified
 During the exploratory data audit of the database, several data hygiene and consistency issues were uncovered:
