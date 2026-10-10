@@ -5,7 +5,7 @@
 This project executes a robust end-to-end data cleaning and preprocessing pipeline on the classicmodels relational database. The goal is to address data hygiene issues—including missing values, inconsistent string formatting, duplicate records, structural text extraction, and database standardization.
 
 
-## 1. What Issues You Identified
+## 1. Issues Identified
 During the exploratory data audit of the database, several data hygiene and consistency issues were uncovered:
 * *Missing & Null Values:* Multiple records contained NULL values in critical fields such as addressLine2, state, postalCode, and creditLimit, which can break downstream mathematical calculations or reporting dashboards.
 * *Messy Formatting & Extra Whitespace:* Names and text attributes contained irregular spacing, and corporate emails lacked uniform lowercase standards.
